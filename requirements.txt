@@ -1,0 +1,16 @@
+huggingface_hub==0.25.2
+torch>=2.2.0
+transformers>=4.40.0
+peft>=0.10.0
+datasets==2.18.0
+accelerate>=0.27.0
+bitsandbytes>=0.43.0
+gradio>=4.19.0
+sentence-transformers>=2.6.0
+openai==1.8.0
+trl
+nltk>=3.8.1
+llama-index>=0.12.28
+llama_index[openai] 
+llama-index-vector-stores-faiss
+platformdirs
